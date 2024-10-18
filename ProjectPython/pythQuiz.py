@@ -102,8 +102,7 @@ def menu():
     print("4 - Extreme")
 
 def main():
-    print("Bienvenue au Quiz d'Histoire !")
-    print()
+    print("\nBienvenue au Quiz d'Histoire !")
     
     menu()
     choix = input("").strip()
