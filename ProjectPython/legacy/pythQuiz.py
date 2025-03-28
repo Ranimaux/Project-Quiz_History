@@ -2,7 +2,6 @@
 ### Projet Histoire Quiz ###
 ## By Jérôme HUON Student ##
 
-import csv
 import json
 import random
 import difflib
@@ -45,7 +44,8 @@ class Quizz:
             print(question.prompt)
             
             for i, choice in enumerate(question.choices):
-                print(f"{chr(65 + i)}. {choice}")
+                decode = chr(65 + i).encode("utf-8").decode("utf-8")
+                print(f"{decode}. {choice}")
             
             response = input("Votre réponse (A, B, C, D): ").upper()
             
@@ -53,7 +53,7 @@ class Quizz:
                 response = input("Réponse invalide ! Veulliez choisir entre A, B, C ou D: ").upper()
             
             try:
-                indexResponse = ord(response) - 65
+                indexResponse = ord(response.encode('utf-8').decode('utf-8')) - 65
                 response = question.choices[indexResponse].strip().lower()
             except (ValueError, IndexError):
                 response = ""
@@ -82,7 +82,7 @@ class Quizz:
 
 ## Cette fonction permet la lecture des fichiers .JSON où sont stocker les prompt, answers et choices.
 def readQuestions(file):
-    with open(file, "r") as f:
+    with open(file, "r", encoding="utf-8") as f:
         questions = json.load(f)
         return [Question(q["prompt"], q["answer"], q.get("choices")) for q in questions]
 
@@ -102,7 +102,8 @@ def menu():
     print("4 - Extreme")
 
 def main():
-    print("\nBienvenue au Quiz d'Histoire !")
+    print("Bienvenue au Quiz d'Histoire !")
+    print()
     
     menu()
     choix = input("").strip()
@@ -129,8 +130,9 @@ def main():
                 quizz = Quizz(questionSelected)
                 scoreTotal = quizz.processQuizz()
     print()
-    print(f"Votre score total est de {scoreTotal}/{len(listQuestion)}")
+    print(f"Votre score total est de {scoreTotal}/{10}")
     quizz.showIncorrectAnswers()
+
 if __name__ == "__main__":
     main()
 

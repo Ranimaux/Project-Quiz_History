@@ -1,0 +1,302 @@
+[
+    {
+        "prompt": "Qu'elle année a eu lieu la Commune de Paris",
+        "answer": "1871",
+        "choices": [
+          "1914",
+          "1936",
+          "1792",
+          "1871"
+        ]
+      },
+      {
+        "prompt": "Comment s'appelle l'ère qui succède au Shogunat Tokugawa au Japon?",
+        "answer": "Ère Meiji",
+        "choices": [
+          "Ère Taisho",
+          "Ère Meiji",
+          "Ère Showa",
+          "Ère Taika"
+        ]
+      },
+      {
+        "prompt": "Sur qu'elle pays a eu lieu les deux guerre de l'opium?",
+        "answer": "Chine",
+        "choices": [
+          "Chine",
+          "Japon",
+          "Russie",
+          "Indes"
+        ]
+      },
+      {
+        "prompt": "Qu'elle date a eu lieu la séparation de l'église et de l'état en France?",
+        "answer": "1905",
+        "choices": [
+          "1901",
+          "1880",
+          "1905",
+          "1910"
+        ]
+      },
+      {
+        "prompt": "Quelle dynastie a régné sur la Chine pendant l'âge d'or culturel des VIIe et VIIIe siècles ?",
+        "answer": "La dynastie Tang",
+        "choices": [
+            "La dynastie Tang",
+            "La dynastie Song",
+            "La dynastie Ming",
+            "La dynastie Han"
+        ]
+    },
+    {
+        "prompt": "Quel empereur romain a adopté le christianisme comme religion officielle de l'Empire ?",
+        "answer": "Constantin Ier",
+        "choices": [
+            "Constantin Ier",
+            "Théodose Ier",
+            "Augustin",
+            "Dioclétien"
+        ]
+    },
+    {
+        "prompt": "Quel conflit a opposé Athènes et Sparte dans la Grèce antique ?",
+        "answer": "La guerre du Péloponnèse",
+        "choices": [
+            "La guerre du Péloponnèse",
+            "La guerre des Perses",
+            "La guerre des Alliés",
+            "La guerre de Corinthe"
+        ]
+    },
+    {
+        "prompt": "Quel révolutionnaire sud-américain est surnommé 'Le Libertador' ?",
+        "answer": "Simón Bolívar",
+        "choices": [
+            "Simón Bolívar",
+            "José de San Martín",
+            "Antonio Sucre",
+            "Francisco Miranda"
+        ]
+    },
+    {
+        "prompt": "Quel philosophe du siècle des Lumières a écrit 'Le Contrat social' ?",
+        "answer": "Jean-Jacques Rousseau",
+        "choices": [
+            "Jean-Jacques Rousseau",
+            "Voltaire",
+            "Montesquieu",
+            "Diderot"
+        ]
+    },
+    {
+        "prompt": "Quel empire africain médiéval est célèbre pour sa capitale, Tombouctou, et sa richesse en or ?",
+        "answer": "L'Empire du Mali",
+        "choices": [
+            "L'Empire du Mali",
+            "L'Empire du Ghana",
+            "L'Empire Songhaï",
+            "L'Empire d'Aksoum"
+        ]
+    },
+    {
+        "prompt": "Quelle bataille de 1815 marque la fin du règne de Napoléon Bonaparte ?",
+        "answer": "La bataille de Waterloo",
+        "choices": [
+            "La bataille de Waterloo",
+            "La bataille de Leipzig",
+            "La bataille d'Austerlitz",
+            "La bataille de Borodino"
+        ]
+    },
+    {
+        "prompt": "Quel empire a régné sur la Perse avant la conquête d'Alexandre le Grand ?",
+        "answer": "L'Empire achéménide",
+        "choices": [
+            "L'Empire achéménide",
+            "L'Empire parthe",
+            "L'Empire sassanide",
+            "L'Empire médo-perse"
+        ]
+    },
+    {
+        "prompt": "Quel révolutionnaire est à l'origine de la déclaration de l'indépendance des États-Unis en 1776 ?",
+        "answer": "Thomas Jefferson",
+        "choices": [
+            "Thomas Jefferson",
+            "George Washington",
+            "Benjamin Franklin",
+            "John Adams"
+        ]
+    },
+    {
+        "prompt": "Qu'elle est le dernier Roi de France ?",
+        "answer": "Louis-Philippe Ier",
+        "choices": [
+          "Louis XVI",
+          "Henri IV",
+          "Napoléon Ier",
+          "Louis-Philippe Ier"
+        ]
+    },
+    {
+        "prompt": "Quel événement a conduit à la démission d'Otto von Bismarck en 1890 ?",
+        "answer": "Un désaccord avec l'empereur Guillaume II",
+        "choices": [
+            "Un désaccord avec l'empereur Guillaume II",
+            "Une opposition parlementaire au Reichstag",
+            "Une crise économique majeure",
+            "Un conflit avec la Russie"
+        ]
+    },
+    {
+        "prompt": "Quelle déclaration de 1917 promet un foyer national aux Juifs en Palestine ?",
+        "answer": "La Déclaration Balfour",
+        "choices": [
+            "La Déclaration Balfour",
+            "L'Accord Sykes-Picot",
+            "Le Plan Peel",
+            "Le Livre blanc de 1939"
+        ]
+    },
+    {
+        "prompt": "Quel événement déclenche la guerre civile espagnole en 1936 ?",
+        "answer": "Le coup d'État des nationalistes",
+        "choices": [
+            "Le coup d'État des nationalistes",
+            "L'abdication d'Alphonse XIII",
+            "La proclamation de la Seconde République",
+            "La création de la CNT"
+        ]
+    },
+    {
+        "prompt": "Quelle doctrine justifiait l'expansion coloniale européenne au XIXe siècle comme une 'mission civilisatrice' ?",
+        "answer": "Le fardeau de l'homme blanc",
+        "choices": [
+            "Le fardeau de l'homme blanc",
+            "Le darwinisme social",
+            "Le droit des peuples à disposer d'eux-mêmes",
+            "L'orientalisme"
+        ]
+    },
+    {
+        "prompt": "Quel est l'objectif principal de la politique du 'cordon sanitaire' après la Première Guerre mondiale ?",
+        "answer": "Contenir l'expansion du communisme soviétique",
+        "choices": [
+            "Contenir l'expansion du communisme soviétique",
+            "Prévenir une seconde guerre mondiale",
+            "Protéger l'Allemagne de ses voisins",
+            "Assurer le contrôle des Balkans"
+        ]
+    },
+    {
+        "prompt": "Quel rôle l'Edit de Milan de 313 joue-t-il dans l'histoire religieuse de l'Empire romain ?",
+        "answer": "Il légalise le christianisme",
+        "choices": [
+            "Il légalise le christianisme",
+            "Il établit le christianisme comme religion d'État",
+            "Il réprime les cultes païens",
+            "Il introduit la Tétrarchie religieuse"
+        ]
+    },
+    {
+        "prompt": "Quel est le nom de la période de l'histoire japonaise marquée par l'établissement du shogunat Tokugawa en 1603 ?",
+        "answer": "Période Edo",
+        "choices": [
+            "Période Edo",
+            "Période Heian",
+            "Période Kamakura",
+            "Période Meiji"
+        ]
+    },
+    {
+        "prompt": "Quelle institution politique a été mise en place par la Constitution française de l'An VIII en 1799 ?",
+        "answer": "Le Consulat",
+        "choices": [
+            "Le Consulat",
+            "Le Directoire",
+            "La Convention",
+            "La Monarchie constitutionnelle"
+        ]
+    },
+    {
+        "prompt": "Quelle dynastie a été renversée par la Révolution chinoise de 1911 ?",
+        "answer": "La dynastie Qing",
+        "choices": [
+            "La dynastie Qing",
+            "La dynastie Ming",
+            "La dynastie Yuan",
+            "La dynastie Tang"
+        ]
+    },
+    {
+        "prompt": "Quel empire a été le premier à adopter le christianisme comme religion officielle en 301 ?",
+        "answer": "L'Arménie",
+        "choices": [
+            "L'Arménie",
+            "L'Empire romain",
+            "L'Éthiopie",
+            "La Perse sassanide"
+        ]
+    },
+    {
+        "prompt": "Quel est l'impact du Code Napoléon (1804) sur les structures juridiques en Europe ?",
+        "answer": "Il a standardisé les lois civiles et inspiré d'autres codes juridiques européens",
+        "choices": [
+            "Il a standardisé les lois civiles et inspiré d'autres codes juridiques européens",
+            "Il a aboli toutes les coutumes locales",
+            "Il a renforcé le pouvoir de l'Église",
+            "Il a restauré les privilèges féodaux"
+        ]
+    },
+    {
+        "prompt": "Dans quel contexte a été signé le traité de Tordesillas en 1494 ?",
+        "answer": "Pour partager le Nouveau Monde entre l'Espagne et le Portugal",
+        "choices": [
+            "Pour partager le Nouveau Monde entre l'Espagne et le Portugal",
+            "Pour établir une paix entre la France et l'Angleterre",
+            "Pour régler les conflits religieux en Europe",
+            "Pour unir les royaumes ibériques"
+        ]
+    },
+    {
+        "prompt": "Quel événement a marqué la fin de l'Empire byzantin en 1453 ?",
+        "answer": "La prise de Constantinople par les Ottomans",
+        "choices": [
+            "La prise de Constantinople par les Ottomans",
+            "La bataille de Kosovo",
+            "La quatrième croisade",
+            "La mort de Justinien"
+        ]
+    },
+    {
+        "prompt": "Quel traité a reconnu l'indépendance des États-Unis en 1783 ?",
+        "answer": "Le traité de Paris",
+        "choices": [
+            "Le traité de Paris",
+            "Le traité de Versailles",
+            "Le traité de Tordesillas",
+            "Le traité de Westphalie"
+        ]
+    },
+    {
+        "prompt": "Quel roi de France a établi l'Édit de Nantes en 1598 pour garantir la liberté religieuse ?",
+        "answer": "Henri IV",
+        "choices": [
+            "Henri IV",
+            "François Ier",
+            "Louis XIV",
+            "Charles IX"
+        ]
+    },
+    {
+        "prompt": "Quelle bataille de la Seconde Guerre mondiale est considérée comme le tournant sur le front de l'Est ?",
+        "answer": "La bataille de Stalingrad",
+        "choices": [
+            "La bataille de Stalingrad",
+            "La bataille de Leningrad",
+            "La bataille de Koursk",
+            "La bataille de Moscou"
+        ]
+    }
+]

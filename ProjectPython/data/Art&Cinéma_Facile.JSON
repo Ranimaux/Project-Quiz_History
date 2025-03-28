@@ -1,0 +1,292 @@
+[
+  {
+      "prompt": "Quel groupe a chanté la célèbre chanson 'Bohemian Rhapsody' ?",
+      "answer": "Queen",
+      "choices": [
+          "Queen",
+          "The Beatles",
+          "Led Zeppelin",
+          "Pink Floyd"
+      ]
+  },
+  {
+      "prompt": "Quel peintre est connu pour avoir coupé une partie de son oreille ?",
+      "answer": "Vincent van Gogh",
+      "choices": [
+          "Pablo Picasso",
+          "Claude Monet",
+          "Vincent van Gogh",
+          "Salvador Dalí"
+      ]
+  },
+  {
+      "prompt": "Dans quel film peut-on entendre la réplique 'May the Force be with you' ?",
+      "answer": "Star Wars",
+      "choices": [
+          "Star Wars",
+          "Star Trek",
+          "Harry Potter",
+          "Le Seigneur des Anneaux"
+      ]
+  },
+  {
+      "prompt": "Qui a écrit la pièce de théâtre 'Roméo et Juliette' ?",
+      "answer": "William Shakespeare",
+      "choices": [
+          "Molière",
+          "William Shakespeare",
+          "Victor Hugo",
+          "Jean Racine"
+      ]
+  },
+  {
+      "prompt": "Quel chanteur est surnommé 'le King' du rock ?",
+      "answer": "Elvis Presley",
+      "choices": [
+          "Michael Jackson",
+          "Elvis Presley",
+          "Johnny Hallyday",
+          "Chuck Berry"
+      ]
+  },
+  {
+      "prompt": "Quel est le titre du premier film d'animation de Disney ?",
+      "answer": "Blanche-Neige et les Sept Nains",
+      "choices": [
+          "Blanche-Neige et les Sept Nains",
+          "Le Roi Lion",
+          "Cendrillon",
+          "Pinocchio"
+      ]
+  },
+  {
+      "prompt": "Quel artiste est célèbre pour ses œuvres surréalistes comme 'La Persistance de la Mémoire' ?",
+      "answer": "Salvador Dalí",
+      "choices": [
+          "Salvador Dalí",
+          "René Magritte",
+          "Pablo Picasso",
+          "Joan Miró"
+      ]
+  },
+  {
+      "prompt": "Dans quelle ville se trouve le Colisée ?",
+      "answer": "Rome",
+      "choices": [
+          "Athènes",
+          "Rome",
+          "Venise",
+          "Paris"
+      ]
+  },
+  {
+      "prompt": "Quel auteur a écrit 'Le Petit Prince' ?",
+      "answer": "Antoine de Saint-Exupéry",
+      "choices": [
+          "Jules Verne",
+          "Victor Hugo",
+          "Antoine de Saint-Exupéry",
+          "Albert Camus"
+      ]
+  },
+  {
+    "prompt": "Quel peintre a réalisé le célèbre tableau 'Les Nymphéas' ?",
+    "answer": "Claude Monet",
+    "choices": [
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Édouard Manet",
+        "Paul Cézanne"
+    ]
+  },
+  {
+      "prompt": "Dans quelle ville se trouve le célèbre musée du Louvre ?",
+      "answer": "Paris",
+      "choices": [
+          "Rome",
+          "Londres",
+          "Paris",
+          "Madrid"
+      ]
+  },
+  {
+      "prompt": "Quelle saga cinématographique met en scène un personnage nommé Frodo Baggins ?",
+      "answer": "Le Seigneur des Anneaux",
+      "choices": [
+          "Harry Potter",
+          "Le Seigneur des Anneaux",
+          "Narnia",
+          "Star Wars"
+      ]
+  },
+  {
+      "prompt": "Qui a peint la fresque 'La Cène' ?",
+      "answer": "Léonard de Vinci",
+      "choices": [
+          "Michel-Ange",
+          "Raphaël",
+          "Léonard de Vinci",
+          "Sandro Botticelli"
+      ]
+  },
+  {
+      "prompt": "Quel instrument est associé à Louis Armstrong ?",
+      "answer": "Trompette",
+      "choices": [
+          "Guitare",
+          "Trompette",
+          "Saxophone",
+          "Piano"
+      ]
+  },
+  {
+      "prompt": "Dans quel pays est né le compositeur Wolfgang Amadeus Mozart ?",
+      "answer": "Autriche",
+      "choices": [
+          "Allemagne",
+          "Italie",
+          "Autriche",
+          "France"
+      ]
+  },
+  {
+      "prompt": "Quel est le nom du célèbre tableau de Léonard de Vinci représentant une femme au sourire énigmatique ?",
+      "answer": "Mona Lisa",
+      "choices": [
+          "La Joconde",
+          "La Jeune Fille à la perle",
+          "Mona Lisa",
+          "La Dame à l'hermine"
+      ]
+  },
+  {
+      "prompt": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "answer": "Arthur Conan Doyle",
+      "choices": [
+          "Agatha Christie",
+          "Arthur Conan Doyle",
+          "Edgar Allan Poe",
+          "Victor Hugo"
+      ]
+  },
+  {
+      "prompt": "Quel film de James Cameron est devenu le plus gros succès au box-office en 2009 ?",
+      "answer": "Avatar",
+      "choices": [
+          "Titanic",
+          "Avatar",
+          "Terminator 2",
+          "Aliens"
+      ]
+  },
+  {
+      "prompt": "Quel auteur est célèbre pour ses romans '1984' et 'La Ferme des animaux' ?",
+      "answer": "George Orwell",
+      "choices": [
+          "Aldous Huxley",
+          "George Orwell",
+          "Ray Bradbury",
+          "Philip K. Dick"
+      ]
+  },
+  {
+      "prompt": "Quel artiste a réalisé la sculpture 'Le Penseur' ?",
+      "answer": "Auguste Rodin",
+      "choices": [
+          "Michel-Ange",
+          "Auguste Rodin",
+          "Donatello",
+          "Bernini"
+      ]
+  },
+  {
+      "prompt": "Dans quel film peut-on entendre la chanson 'My Heart Will Go On' ?",
+      "answer": "Titanic",
+      "choices": [
+          "Titanic",
+          "Ghost",
+          "Le Roi Lion",
+          "Pretty Woman"
+      ]
+  },
+  {
+      "prompt": "Qui est l'auteur de la série de livres 'Harry Potter' ?",
+      "answer": "J.K. Rowling",
+      "choices": [
+          "J.R.R. Tolkien",
+          "J.K. Rowling",
+          "C.S. Lewis",
+          "Philip Pullman"
+      ]
+  },
+  {
+      "prompt": "Quelle est la nationalité de Frida Kahlo, célèbre peintre ?",
+      "answer": "Mexicaine",
+      "choices": [
+          "Espagnole",
+          "Mexicaine",
+          "Argentine",
+          "Portugaise"
+      ]
+  },
+  {
+      "prompt": "Quel est le nom du tableau représentant une montre molle de Salvador Dalí ?",
+      "answer": "La Persistance de la Mémoire",
+      "choices": [
+          "Les Montres Molles",
+          "La Persistance de la Mémoire",
+          "Le Temps Suspendu",
+          "Rêve Causal"
+      ]
+  },
+  {
+      "prompt": "Dans quel pays est né le célèbre compositeur Ludwig van Beethoven ?",
+      "answer": "Allemagne",
+      "choices": [
+          "Autriche",
+          "Allemagne",
+          "Italie",
+          "France"
+      ]
+  },
+  {
+      "prompt": "Quel chanteur a popularisé la chanson 'Imagine' ?",
+      "answer": "John Lennon",
+      "choices": [
+          "Paul McCartney",
+          "Bob Dylan",
+          "John Lennon",
+          "George Harrison"
+      ]
+  },
+  {
+    "prompt": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+    "answer": "Parasite",
+    "choices": [
+        "Joker",
+        "1917",
+        "Parasite",
+        "Once Upon a Time... in Hollywood"
+    ]
+  },
+  {
+      "prompt": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "answer": "Victor Hugo",
+      "choices": [
+          "Victor Hugo",
+          "Émile Zola",
+          "Honoré de Balzac",
+          "Alexandre Dumas"
+      ]
+  },
+  {
+      "prompt": "Dans quel pays a eu lieu le mouvement artistique de la Renaissance ?",
+      "answer": "Italie",
+      "choices": [
+          "France",
+          "Italie",
+          "Espagne",
+          "Pays-Bas"
+      ]
+  }
+]

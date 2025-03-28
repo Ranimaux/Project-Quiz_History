@@ -1,0 +1,242 @@
+[
+    {
+        "prompt": "Quel mouvement artistique, lancé par André Breton, se caractérise par l'exploration de l'inconscient et des rêves ?",
+        "answer": "Surréalisme",
+        "choices": [
+            "Impressionnisme",
+            "Expressionnisme",
+            "Surréalisme",
+            "Cubisme"
+        ]
+    },
+    {
+        "prompt": "Quel cinéaste est connu pour avoir inventé le montage soviétique avec des œuvres comme 'Le Cuirassé Potemkine' ?",
+        "answer": "Sergueï Eisenstein",
+        "choices": [
+            "Andreï Tarkovski",
+            "Dziga Vertov",
+            "Sergueï Eisenstein",
+            "Lev Koulechov"
+        ]
+    },
+    {
+        "prompt": "Quel artiste de la Renaissance a peint 'La Naissance de Vénus' ?",
+        "answer": "Sandro Botticelli",
+        "choices": [
+            "Sandro Botticelli",
+            "Leonard de Vinci",
+            "Michel-Ange",
+            "Raphaël"
+        ]
+    },
+    {
+        "prompt": "Dans quel pays est né le mouvement cinématographique 'Dogme 95' ?",
+        "answer": "Danemark",
+        "choices": [
+            "Suède",
+            "Danemark",
+            "Norvège",
+            "Pays-Bas"
+        ]
+    },
+    {
+        "prompt": "Quel film muet de Fritz Lang est considéré comme une pierre angulaire de la science-fiction ?",
+        "answer": "Metropolis",
+        "choices": [
+            "Nosferatu",
+            "Le Cabinet du docteur Caligari",
+            "Metropolis",
+            "L'Ange bleu"
+        ]
+    },
+    {
+        "prompt": "Quelle œuvre de Pablo Picasso marque le début du cubisme analytique ?",
+        "answer": "Les Demoiselles d'Avignon",
+        "choices": [
+            "Les Demoiselles d'Avignon",
+            "Guernica",
+            "La Femme qui pleure",
+            "Le Baiser"
+        ]
+    },
+    {
+        "prompt": "Quel réalisateur italien est célèbre pour ses films néoréalistes tels que 'Rome, ville ouverte' ?",
+        "answer": "Roberto Rossellini",
+        "choices": [
+            "Federico Fellini",
+            "Vittorio De Sica",
+            "Roberto Rossellini",
+            "Luchino Visconti"
+        ]
+    },
+    {
+        "prompt": "Quel courant artistique utilise des objets du quotidien pour en faire des œuvres d'art, comme l'a fait Marcel Duchamp avec son 'Fountain' ?",
+        "answer": "Dadaïsme",
+        "choices": [
+            "Pop art",
+            "Dadaïsme",
+            "Surréalisme",
+            "Expressionnisme abstrait"
+        ]
+    },
+    {
+        "prompt": "Dans quel film d'Alfred Hitchcock trouve-t-on la célèbre scène de la douche ?",
+        "answer": "Psychose",
+        "choices": [
+            "Les Oiseaux",
+            "Psychose",
+            "Fenêtre sur cour",
+            "Sueurs froides"
+        ]
+    },
+    {
+        "prompt": "Quel architecte est connu pour ses conceptions modernistes comme la villa Savoye et le plan de Chandigarh ?",
+        "answer": "Le Corbusier",
+        "choices": [
+            "Frank Lloyd Wright",
+            "Le Corbusier",
+            "Walter Gropius",
+            "Ludwig Mies van der Rohe"
+        ]
+    },
+    {
+        "prompt": "Qui est le réalisateur du film 'Persona', souvent considéré comme un chef-d'œuvre du cinéma d'auteur ?",
+        "answer": "Ingmar Bergman",
+        "choices": [
+            "Andrei Tarkovski",
+            "Ingmar Bergman",
+            "Federico Fellini",
+            "Michelangelo Antonioni"
+        ]
+    },
+    {
+        "prompt": "Quelle artiste américaine est célèbre pour ses peintures de fleurs et ses paysages du désert du Nouveau-Mexique ?",
+        "answer": "Georgia O'Keeffe",
+        "choices": [
+            "Frida Kahlo",
+            "Georgia O'Keeffe",
+            "Mary Cassatt",
+            "Louise Bourgeois"
+        ]
+    },
+    {
+        "prompt": "Quel réalisateur japonais est connu pour des œuvres comme 'Rashômon' et 'Les Sept Samouraïs' ?",
+        "answer": "Akira Kurosawa",
+        "choices": [
+            "Yasujiro Ozu",
+            "Akira Kurosawa",
+            "Hirokazu Kore-eda",
+            "Kenji Mizoguchi"
+        ]
+    },
+    {
+        "prompt": "Quel mouvement architectural a influencé le design du Bauhaus ?",
+        "answer": "Modernisme",
+        "choices": [
+            "Baroque",
+            "Modernisme",
+            "Art déco",
+            "Postmodernisme"
+        ]
+    },
+    {
+        "prompt": "Quel cinéaste est à l'origine de la trilogie 'Le Parrain' ?",
+        "answer": "Francis Ford Coppola",
+        "choices": [
+            "Martin Scorsese",
+            "Francis Ford Coppola",
+            "Brian De Palma",
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "prompt": "Quelle est la technique utilisée par les impressionnistes pour peindre la lumière et les effets atmosphériques ?",
+        "answer": "Touche divisée",
+        "choices": [
+            "Touche divisée",
+            "Sfumato",
+            "Chiaroscuro",
+            "Pointillisme"
+        ]
+    },
+    {
+        "prompt": "Quelle actrice française est la muse de François Truffaut et a joué dans 'Jules et Jim' ?",
+        "answer": "Jeanne Moreau",
+        "choices": [
+            "Brigitte Bardot",
+            "Jeanne Moreau",
+            "Catherine Deneuve",
+            "Simone Signoret"
+        ]
+    },
+    {
+        "prompt": "Quel tableau de Johannes Vermeer représente une jeune fille portant un turban et une perle à l'oreille ?",
+        "answer": "La Jeune Fille à la perle",
+        "choices": [
+            "La Jeune Fille à la perle",
+            "La Dentellière",
+            "Femme lisant une lettre",
+            "Vue de Delft"
+        ]
+    },
+    {
+        "prompt": "Quel est le film emblématique du cinéma allemand expressionniste réalisé par Robert Wiene ?",
+        "answer": "Le Cabinet du docteur Caligari",
+        "choices": [
+            "Nosferatu",
+            "Metropolis",
+            "Le Cabinet du docteur Caligari",
+            "M le Maudit"
+        ]
+    },
+    {
+        "prompt": "Qui est l'artiste qui a peint 'Guernica', une œuvre dénonçant les horreurs de la guerre ?",
+        "answer": "Pablo Picasso",
+        "choices": [
+            "Salvador Dalí",
+            "Francisco Goya",
+            "Pablo Picasso",
+            "Joan Miró"
+        ]
+    },
+    {
+        "prompt": "Quel réalisateur italien a remporté plusieurs Oscars avec son film 'La vie est belle' ?",
+        "answer": "Roberto Benigni",
+        "choices": [
+            "Federico Fellini",
+            "Roberto Benigni",
+            "Vittorio De Sica",
+            "Luchino Visconti"
+        ]
+    },
+    {
+        "prompt": "Quel courant artistique du XXe siècle est connu pour ses œuvres abstraites et ses formes géométriques ?",
+        "answer": "Constructivisme",
+        "choices": [
+            "Dadaïsme",
+            "Constructivisme",
+            "Expressionnisme abstrait",
+            "Surréalisme"
+        ]
+    },
+    {
+        "prompt": "Quel réalisateur britannique est connu pour des films comme '2001 : L'Odyssée de l'espace' et 'Orange mécanique' ?",
+        "answer": "Stanley Kubrick",
+        "choices": [
+            "Ridley Scott",
+            "Stanley Kubrick",
+            "Christopher Nolan",
+            "Peter Greenaway"
+        ]
+    },
+    {
+        "prompt": "Quelle technique artistique est utilisée dans la fresque 'La Cène' de Léonard de Vinci ?",
+        "answer": "Peinture à tempera sur mur",
+        "choices": [
+            "Fresque",
+            "Peinture à tempera sur mur",
+            "Enluminure",
+            "Peinture à l'huile sur bois"
+        ]
+    }
+]

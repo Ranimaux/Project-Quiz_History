@@ -1,0 +1,302 @@
+[
+  {
+    "prompt": "Qu'elle est la capital de la Lithuanie? ",
+    "answer": "Vilnius",
+    "choices": [
+      "Kaunas",
+      "Vilnius",
+      "Klaipeda",
+      "Utena"
+    ]
+  },
+  {
+    "prompt": "Combien de continents y a-t-il sur Terre ? ",
+    "answer": "7",
+    "choices": [
+      "4",
+      "10",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "prompt": "Quel pays a pour capitale Canberra ?",
+    "answer": "Australie",
+    "choices": [
+      "Canada",
+      "Angleterre",
+      "Australie",
+      "Nouvelle-Zélande"
+    ]
+  },
+  {
+    "prompt": "Dans quel pays se trouve la ville de Rio de Janeiro?",
+    "answer": "Brésil",
+    "choices": [
+      "Brésil",
+      "Portugal",
+      "Bolivie",
+      "Argentine"
+    ]
+  },
+  {
+    "prompt": "Dans quel pays traverse majoritairement la chaine de montagne Oural",
+    "answer": "Russie",
+    "choices": [
+      "Chine",
+      "Arménie",
+      "Ouzbékistan",
+      "Russie"
+    ]
+  },
+  {
+    "prompt": "Quelle rivière traserve Londres",
+    "answer": "Thames",
+    "choices": [
+      "Rhin",
+      "Volga",
+      "Thames",
+      "Danube"
+    ]
+  },
+  {
+    "prompt": "Quel pays est connu pour sa grande muraille",
+    "answer": "Chine",
+    "choices": [
+      "Chine",
+      "Mongolie",
+      "Russie",
+      "Corée"
+    ]
+  },
+  {
+    "prompt": "Quel est le nom de la chaîne de montagnes qui traverse l'Amérique du Sud ?",
+    "answer": "Andes",
+    "choices": [
+      "Alpes",
+      "Andes",
+      "Oural",
+      "Andes"
+    ]
+  },
+  {
+    "prompt": "Quelle est la capital de l'Espagne?",
+    "answer": "Madrid",
+    "choices": [
+      "Madrid",
+      "Séville",
+      "Gérone",
+      "Bilbao"
+    ]
+  },
+  {
+    "prompt": "Quelle est la plus grandes île du monde?",
+    "answer": "Groenland",
+    "choices": [
+      "Madagascar",
+      "Groenland",
+      "Bahamas",
+      "Bornéo"
+    ]
+  },
+  {
+    "prompt": "Quelle montagne est la plus haute du monde ?",
+    "answer": "Mont Everest",
+    "choices": [
+      "K2",
+      "Mont Blanc",
+      "Mont Everest",
+      "Kilimandjaro"
+    ]
+  },
+  {
+    "prompt": "Quel est le plus haut volcan du monde ?",
+    "answer": "Nevado Ojos del Salado",
+    "choices": [
+      "Kilimandjaro",
+      "Mauna Loa",
+      "Mont Fuji",
+      "Nevado Ojos del Salado"
+    ]
+  },
+  {
+    "prompt": "Quel pays est connu pour ses temples d'Angkor Wat ?",
+    "answer": "Cambodge",
+    "choices": [
+      "Laos",
+      "Cambodge",
+      "Russie",
+      "Vietnam"
+    ]
+  },
+  {
+    "prompt": "Quel est la capital du Canada?",
+    "answer": "Toronto",
+    "choices": [
+      "Ottawa",
+      "Vancouver",
+      "Toronto",
+      "Montréal"
+    ]
+  },
+  {
+    "prompt": "Quel pays est le plus peuplé du monde ?",
+    "answer": "Chine",
+    "choices": [
+      "Inde",
+      "Indonésie",
+      "Chine",
+      "États-Unis"
+    ]
+  },
+  {
+    "prompt": "Quel pays est le plus peuplé du monde ?",
+    "answer": "États-Unis",
+    "choices": [
+      "États-Unis",
+      "France",
+      "Russie",
+      "Canada"
+    ]
+  },
+  {
+    "prompt": "Quel est le nom de la mer entre l'Arabie et l'Afrique ?",
+    "answer": "Mer Rouge",
+    "choices": [
+      "Mer Rouge",
+      "Mer Blanche",
+      "Mer Caspienne",
+      "Mer Noire"
+    ]
+  },
+  {
+    "prompt": "Quel est le plus grand lac d'eau douce du monde par superficie ?",
+    "answer": "Lac Supérieur",
+    "choices": [
+      "Lac Supérieur",
+      "Lac Victoria",
+      "Lac Baïkal",
+      "Lac Titicaca"
+    ]
+  },
+  {
+    "prompt": "Quel est le plus grand désert chaud du monde ?",
+    "answer": "Sahara",
+    "choices": [
+      "Mojave",
+      "Sahara",
+      "Désert Syrien",
+      "Kalahari"
+    ]
+  },
+  {
+    "prompt": "Quel est la capital de l'Ecosse ?",
+    "answer": "Edimbourg",
+    "choices": [
+      "Glasgow",
+      "Edimbourg",
+      "Aberdeen",
+      "Newcastle"
+    ]
+  },
+  {
+    "prompt": "Quelle est la capitale de l'Allemagne ?",
+    "answer": "Berlin",
+    "choices": [
+      "Berlin",
+      "Bonn",
+      "Munich",
+      "Hannover"
+    ]
+  },
+  {
+    "prompt": "Quelle quel pays se trouve la ville de Turin",
+    "answer": "Italie",
+    "choices": [
+      "Italie",
+      "France",
+      "Autriche",
+      "Suisse"
+    ]
+  },
+  {
+    "prompt": "Quel pays est célèbre pour ses moulins à vent et ses tulipes ?",
+    "answer": "Pays-Bas",
+    "choices": [
+      "Belgique",
+      "Pays-Bas",
+      "Allemagne",
+      "Espagne"
+    ]
+  },
+  {
+    "prompt": "Où se situe le Machu Picchu? ",
+    "answer": "Pérou",
+    "choices": [
+      "Chili",
+      "Pérou",
+      "Argentine",
+      "Brésil"
+    ]
+  },
+  {
+    "prompt": "Quelle mer est connue pour sa forte salinité et sa flottaison facile ?",
+    "answer": "Mer Morte",
+    "choices": [
+      "Mer Noire",
+      "Mer Rouge",
+      "Mer Morte",
+      "Mer Blanche"
+    ]
+  },
+  {
+    "prompt": "Quelle est la capitale de l'Argentine ?",
+    "answer": "Buenos Aires",
+    "choices": [
+      "Buenos Aires",
+      "Santa Fe",
+      "Lima",
+      "Santiago"
+    ]
+  },
+  {
+    "prompt": "Quel est le pays qui compte le plus grand nombre d’îles dans le monde ?",
+    "answer": "Suède",
+    "choices": [
+      "France",
+      "Suède",
+      "Japon",
+      "Indonésie"
+    ]
+  },
+  {
+    "prompt": "Quel pays a pour capitale Reykjavik ?",
+    "answer": "Islande",
+    "choices": [
+      "Islande",
+      "Norvège",
+      "Groenland",
+      "Danemark"
+    ]
+  },
+  {
+    "prompt": "Quel pays est connu comme le pays du soleil levant ?",
+    "answer": "Japon",
+    "choices": [
+      "Japon",
+      "Corée",
+      "Chine",
+      "Philipine"
+    ]
+  },
+  {
+    "prompt": "Quel est le plus long fleuve du monde ?",
+    "answer": "Amazone",
+    "choices": [
+      "Nil",
+      "Volga",
+      "Amazone",
+      "Seine"
+    ]
+  }
+]

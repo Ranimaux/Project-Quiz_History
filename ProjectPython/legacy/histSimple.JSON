@@ -1,0 +1,302 @@
+[
+  {
+    "prompt": "En quelle année a eu lieu l'attentat au World Trade Center? ",
+    "answer": "2001",
+    "choices": [
+      "2015",
+      "1995",
+      "2001",
+      "1929"
+    ]
+  },
+  {
+    "prompt": "Quel était le nom de la plage où le Commando Kieffer a debarquer en Juin 44? ",
+    "answer": "Sword Beach",
+    "choices": [
+      "Omaha Beach",
+      "Banana Beach",
+      "Bronze Beach",
+      "Sword Beach"
+    ]
+  },
+  {
+    "prompt": "Quel était le nom du premier Empereur Romains",
+    "answer": "Auguste",
+    "choices": [
+      "Auguste",
+      "Salazar",
+      "Cesar",
+      "Titus"
+    ]
+  },
+  {
+    "prompt": "Quel était le nom de l'ancienne capitale de l'Egypte durant l'Ancien Empire? ",
+    "answer": "Memphis",
+    "choices": [
+      "Thebes",
+      "Memphis",
+      "Alexandrie",
+      "Athene"
+    ]
+  },
+  {
+    "prompt": "Quel traité a mis fin à la Premiere Guerre Mondiale? ",
+    "answer": "Le traité de Versailles",
+    "choices": [
+      "Le traité de Brest-Litovsk",
+      "Le traité de Paris",
+      "Le traité de Versailles",
+      "Le traité de Tordesillas"
+    ]
+  },
+  {
+    "prompt": "Quel était le nom de l'Empereur du plus grand Empire du monde? ",
+    "answer": "Gengis Khan",
+    "choices": [
+      "Alexandre III",
+      "Napoleon Ier",
+      "Gengis Khan",
+      "Charlemagne"
+    ]
+  },
+  {
+    "prompt": "En Quelle année Christophe Colomb a-t-il découvert l'Amerique? ",
+    "answer": "1492",
+    "choices": [
+      "1501",
+      "1492",
+      "1700",
+      "1348"
+    ]
+  },
+  {
+    "prompt": "Quel évènement le plus connu et souvent considéré comme le déclencheur de la Premiere Guerre Mondiale",
+    "answer": "L'assassinat de l'archiduc Francois-Ferdinand",
+    "choices": [
+      "La Révolution Française",
+      "La crise des balkans",
+      "L'assassinat de l'archiduc Francois-Ferdinand",
+      "L'invasion de la Libye par L'Italie"
+    ]
+  },
+  {
+    "prompt": "Quel était le premier Président Americain assassiner? ",
+    "answer": "Abraham Lincoln",
+    "choices": [
+      "Abraham Lincoln",
+      "J. F. Kennedy",
+      "Ronald Reagan",
+      "Theodore Roosevelt"
+    ]
+  },
+  {
+    "prompt": "Que s'est t'il passée en 1989? ",
+    "answer": "Chute du mur de Berlin",
+    "choices": [
+      "La Crise de Tchernoyl",
+      "L'Election de Jacques Chirac",
+      "La Chute de L'Union Sovietique",
+      "Chute du mur de Berlin"
+    ]
+  },
+  {
+    "prompt": "Quelle était la principale utilisation de la Grande Muraille de Chine? ",
+    "answer": "Protéger contre les invasions",
+    "choices": [
+      "Décoration",
+      "Commerce",
+      "Protéger contre les invasions",
+      "Transport"
+    ]
+  },
+  {
+    "prompt": "Qui a été la première femme Premier ministre du Royaume-Uni? ",
+    "answer": "Margaret Thatcher",
+    "choices": [
+      "Angela Merkel",
+      "Margaret Thatcher",
+      "Élisabeth II",
+      "Golda Meir"
+    ]
+  },
+  {
+    "prompt": "Quel pays a été dirigé par Adolf Hitler? ",
+    "answer": "Allemagne",
+    "choices": [
+      "Italie",
+      "Allemagne",
+      "Russie",
+      "Espagne"
+    ]
+  },
+  {
+    "prompt": "Comment s'appelait le bateau sur lequel Napoléon a été exilé à Saint-Hélène? ",
+    "answer": "Northumberland",
+    "choices": [
+      "Victory",
+      "Northumberland",
+      "Endeavour",
+      "Bounty"
+    ]
+  },
+  {
+    "prompt": "Dans quel pays s'est déroulée la révolution industrielle? ",
+    "answer": "Royaume-Uni",
+    "choices": [
+      "France",
+      "Royaume-Uni",
+      "Allemagne",
+      "États-Unis"
+    ]
+  },
+  {
+    "prompt": "Qui a peint La Joconde? ",
+    "answer": "Leonard de Vinci",
+    "choices": [
+      "Michel-Ange",
+      "Raphaël",
+      "Leonard de Vinci",
+      "Botticelli"
+    ]
+  },
+  {
+    "prompt": "Quel était le principal matériau utilisé pour construire les pyramides d'Égypte? ",
+    "answer": "Calcaire",
+    "choices": [
+      "Granit",
+      "Calcaire",
+      "Marbre",
+      "Argile"
+    ]
+  },
+  {
+    "prompt": "Quel roi français était surnommé 'le Roi Soleil'? ",
+    "answer": "Louis XIV",
+    "choices": [
+      "Louis XIV",
+      "François Ier",
+      "Henri IV",
+      "Napoléon"
+    ]
+  },
+  {
+    "prompt": "Quel événement a marqué la fin de la Seconde Guerre mondiale? ",
+    "answer": "La capitulation du Japon",
+    "choices": [
+      "La mort de Hitler",
+      "La libération de Paris",
+      "La capitulation du Japon",
+      "Le débarquement en Normandie"
+    ]
+  },
+  {
+    "prompt": "Quel était le nom de l'avion utilisé pour larguer la première bombe atomique? ",
+    "answer": "Enola Gay",
+    "choices": [
+      "Spirit of St. Louis",
+      "Enola Gay",
+      "Concorde",
+      "Red Baron"
+    ]
+  },
+  {
+    "prompt": "Qui était connu comme le 'père de la médecine'? ",
+    "answer": "Hippocrate",
+    "choices": [
+      "Hippocrate",
+      "Socrate",
+      "Platon",
+      "Aristote"
+    ]
+  },
+  {
+    "prompt": "Quel était le principal but des croisades? ",
+    "answer": "Reprendre Jérusalem",
+    "choices": [
+      "Coloniser l'Afrique",
+      "Découvrir l'Amérique",
+      "Reprendre Jérusalem",
+      "Évangéliser l'Asie"
+    ]
+  },
+  {
+    "prompt": "Quel pays a construit le canal de Panama? ",
+    "answer": "États-Unis",
+    "choices": [
+      "Colombie",
+      "France",
+      "États-Unis",
+      "Espagne"
+    ]
+  },
+  {
+    "prompt": "Quelle civilisation a construit Machu Picchu? ",
+    "answer": "Incas",
+    "choices": [
+      "Mayas",
+      "Aztèques",
+      "Incas",
+      "Olmèques"
+    ]
+  },
+  {
+    "prompt": "Quel était le nom de la première femme dans l'espace? ",
+    "answer": "Valentina Terechkova",
+    "choices": [
+      "Valentina Terechkova",
+      "Sally Ride",
+      "Mae Jemison",
+      "Eileen Collins"
+    ]
+  },
+  {
+    "prompt": "Quel était le nom de la première Constitution française? ",
+    "answer": "La Constitution de 1791",
+    "choices": [
+      "La Constitution de 1791",
+      "Code Napoléon",
+      "Déclaration des Droits de l'Homme",
+      "Constitution de 1848"
+    ]
+  },
+  {
+    "prompt": "Quel mur a séparé Berlin jusqu'en 1989? ",
+    "answer": "Le mur de Berlin",
+    "choices": [
+      "Le mur de Berlin",
+      "Le mur des lamentations",
+      "Le mur de fer",
+      "La ligne Maginot"
+    ]
+  },
+  {
+    "prompt": "Dans quel siècle a eu lieu la Révolution française? ",
+    "answer": "18ème siècle",
+    "choices": [
+      "17ème siècle",
+      "18ème siècle",
+      "19ème siècle",
+      "20ème siècle"
+    ]
+  },
+  {
+    "prompt": "Qui a mené la lutte pour l'indépendance de l'Inde? ",
+    "answer": "Mahatma Gandhi",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Indira Gandhi"
+    ]
+  },
+  {
+    "prompt": "Quel pays a été le premier à utiliser des chars de combat en guerre? ",
+    "answer": "Royaume-Uni",
+    "choices": [
+      "Allemagne",
+      "France",
+      "Royaume-Uni",
+      "États-Unis"
+    ]
+  }
+]

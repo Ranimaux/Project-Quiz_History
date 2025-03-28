@@ -1,0 +1,242 @@
+[
+    {
+        "prompt": "Quelle théorie géographique explique la répartition des populations en fonction des ressources disponibles et des structures politiques ?",
+        "answer": "Théorie de Malthus",
+        "choices": [
+            "Théorie de Malthus",
+            "Théorie de la transition démographique",
+            "Théorie du déterminisme géographique",
+            "Théorie de l'écoumène"
+        ]
+    },
+    {
+        "prompt": "Quel concept désigne l’étude des interactions entre les sociétés humaines et leurs milieux naturels ?",
+        "answer": "Écologie humaine",
+        "choices": [
+            "Anthropologie",
+            "Géopolitique",
+            "Écologie humaine",
+            "Géographie économique"
+        ]
+    },
+    {
+        "prompt": "Comment s'appelle la faille tectonique responsable de nombreux tremblements de terre en Californie ?",
+        "answer": "Faille de San Andreas",
+        "choices": [
+            "Faille de Cascadia",
+            "Faille de San Andreas",
+            "Faille de Hayward",
+            "Faille d'Alaska"
+        ]
+    },
+    {
+        "prompt": "Quel est le bassin hydrographique le plus vaste du monde ?",
+        "answer": "Bassin de l'Amazone",
+        "choices": [
+            "Bassin du Congo",
+            "Bassin du Nil",
+            "Bassin de l'Amazone",
+            "Bassin de la Volga"
+        ]
+    },
+    {
+        "prompt": "Dans quel pays se trouve le plus grand delta intérieur du monde, le delta de l'Okavango ?",
+        "answer": "Botswana",
+        "choices": [
+            "Angola",
+            "Namibie",
+            "Botswana",
+            "Zambie"
+        ]
+    },
+    {
+        "prompt": "Quel concept géographique désigne les villes qui dominent le système urbain mondial en termes économiques et culturels ?",
+        "answer": "Villes mondiales",
+        "choices": [
+            "Villes mondiales",
+            "Mégalopoles",
+            "Régions métropolitaines",
+            "Villes-pivots"
+        ]
+    },
+    {
+        "prompt": "Quel est le principal facteur de désertification dans le Sahel ?",
+        "answer": "Surexploitation des terres",
+        "choices": [
+            "Surexploitation des terres",
+            "Déforestation",
+            "Sécheresses naturelles",
+            "Urbanisation"
+        ]
+    },
+    {
+        "prompt": "Quel est le phénomène géographique désigné par 'albédo' ?",
+        "answer": "La réflectivité d'une surface",
+        "choices": [
+            "La réflectivité d'une surface",
+            "La capacité d'une surface à retenir la chaleur",
+            "La circulation des vents",
+            "L'absorption des précipitations"
+        ]
+    },
+    {
+        "prompt": "Quel pays abrite la plus grande partie du massif de l'Hindu Kush ?",
+        "answer": "Afghanistan",
+        "choices": [
+            "Pakistan",
+            "Inde",
+            "Afghanistan",
+            "Tadjikistan"
+        ]
+    },
+    {
+        "prompt": "Quel courant océanique influence les climats de la côte ouest de l'Europe ?",
+        "answer": "Courant du Gulf Stream",
+        "choices": [
+            "Courant du Kuroshio",
+            "Courant du Labrador",
+            "Courant du Gulf Stream",
+            "Courant de Benguela"
+        ]
+    },
+    {
+        "prompt": "Quelle théorie explique le mouvement des plaques tectoniques sur la lithosphère terrestre ?",
+        "answer": "Théorie de la tectonique des plaques",
+        "choices": [
+            "Théorie de la tectonique des plaques",
+            "Théorie de la dérive des continents",
+            "Théorie du volcanisme global",
+            "Théorie du mouvement convectif"
+        ]
+    },
+    {
+        "prompt": "Quel est le terme pour désigner une ville dont la population dépasse les 10 millions d’habitants ?",
+        "answer": "Mégapole",
+        "choices": [
+            "Métropole",
+            "Mégapole",
+            "Cité mondiale",
+            "Mégalopole"
+        ]
+    },
+    {
+        "prompt": "Quelle est la principale ressource exploitée dans le golfe de Guinée ?",
+        "answer": "Pétrole",
+        "choices": [
+            "Gaz naturel",
+            "Pétrole",
+            "Or",
+            "Uranium"
+        ]
+    },
+    {
+        "prompt": "Quel est le nom de la ceinture volcanique qui entoure l'océan Pacifique ?",
+        "answer": "Ceinture de feu du Pacifique",
+        "choices": [
+            "Ceinture de feu du Pacifique",
+            "Arc des Caraïbes",
+            "Rift est-africain",
+            "Zone de subduction des Andes"
+        ]
+    },
+    {
+        "prompt": "Quel est le terme géographique désignant une plaine côtière formée par des dépôts alluviaux ?",
+        "answer": "Delta",
+        "choices": [
+            "Isthme",
+            "Delta",
+            "Lagune",
+            "Estuaire"
+        ]
+    },
+    {
+        "prompt": "Quelle ville est souvent qualifiée de 'capitale européenne' en raison de la présence de nombreuses institutions européennes ?",
+        "answer": "Bruxelles",
+        "choices": [
+            "Strasbourg",
+            "Bruxelles",
+            "Luxembourg",
+            "Francfort"
+        ]
+    },
+    {
+        "prompt": "Quel pays d'Asie centrale est enclavé entre la Russie et la Chine ?",
+        "answer": "Kazakhstan",
+        "choices": [
+            "Kirghizistan",
+            "Tadjikistan",
+            "Kazakhstan",
+            "Ouzbékistan"
+        ]
+    },
+    {
+        "prompt": "Quelle région du globe est connue pour son importante activité sismique et volcanique en raison de la convergence des plaques tectoniques ?",
+        "answer": "Anneau de feu",
+        "choices": [
+            "Rift est-africain",
+            "Anneau de feu",
+            "Himalaya",
+            "Andes"
+        ]
+    },
+    {
+        "prompt": "Quel type de climat est caractérisé par des étés chauds et humides et des hivers doux et secs ?",
+        "answer": "Climat subtropical humide",
+        "choices": [
+            "Climat méditerranéen",
+            "Climat continental",
+            "Climat subtropical humide",
+            "Climat océanique"
+        ]
+    },
+    {
+        "prompt": "Quelle île est la plus grande de l'archipel indonésien ?",
+        "answer": "Bornéo",
+        "choices": [
+            "Sumatra",
+            "Bornéo",
+            "Java",
+            "Sulawesi"
+        ]
+    },
+    {
+        "prompt": "Quel phénomène naturel est à l'origine de la formation des atolls coralliens ?",
+        "answer": "L'érosion et la croissance des récifs coralliens",
+        "choices": [
+            "L'érosion des plages",
+            "La croissance des récifs coralliens",
+            "Les séismes",
+            "Le volcanisme"
+        ]
+    },
+    {
+        "prompt": "Quelle mer est bordée par la Jordanie, Israël et la Cisjordanie ?",
+        "answer": "Mer Morte",
+        "choices": [
+            "Mer Rouge",
+            "Mer Caspienne",
+            "Mer Morte",
+            "Mer Méditerranée"
+        ]
+    },
+    {
+        "prompt": "Quel est le plus grand système fluvial d'Europe ?",
+        "answer": "Le Danube",
+        "choices": [
+            "Le Rhin",
+            "Le Danube",
+            "La Volga",
+            "Le Rhône"
+        ]
+    },
+    {
+        "prompt": "Quel pays africain est traversé par l’équateur et abrite une partie de la forêt tropicale du bassin du Congo ?",
+        "answer": "République démocratique du Congo",
+        "choices": [
+            "République démocratique du Congo",
+            "Gabon",
+            "Kenya",
+            "Cameroun"
+        ]
+    }
+]
